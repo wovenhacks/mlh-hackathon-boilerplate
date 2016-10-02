@@ -35,7 +35,7 @@ event:
 
   trust_badge:
     year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
+    region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
@@ -57,15 +57,15 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Simply learn by doing and finish with a final project that has the potential to turn into a real business.
       - image: "images/image2.png"
         title: "BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Utilize a variety of modern technology hardware and APIs to build compelling projects that provide a “wow” experience.
       - image: "images/image3.png"
         title: "SHARE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Get to share and present your creations over the course with [celebrity judges](#) and chosen winners get attractive [prizes and packages](#).
 
   # Frequently asked questions.
   faq:
@@ -82,7 +82,7 @@ event:
         have graduated within the past 12 months are eligible to attend.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at Ashesi University, Ghana.
+        The event is being hosted at [Ashesi University](https://goo.gl/maps/qjFj2SticGq) in Ghana, West Africa.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
