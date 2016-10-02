@@ -65,7 +65,7 @@ event:
       - image: "images/image3.png"
         title: "SHARE."
         description: >
-          Get to share and present your creations over the course with [celebrity judges](https://) and chosen winners get attractive [prizes and packages](https://).
+          Get to share and present your creations over the course with celebrity judges and chosen winners get attractive prizes and packages.
 
   # Frequently asked questions.
   faq:
