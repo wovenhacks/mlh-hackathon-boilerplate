@@ -64,6 +64,7 @@ section {
 }
 
 .hero hr {
+  display: none;
   border-top: 15px solid #0F2C34;
   margin: 0;
   position: relative;
