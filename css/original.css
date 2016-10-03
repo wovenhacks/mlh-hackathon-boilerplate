@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #FF7FA8;
+  background-color: #FFF;
 }
 
 section {
@@ -78,9 +78,8 @@ section {
 }
 
 .hero .wrapper h1 {
+  font-family: "brandon-grotesque", bold;
   color: white;
-  background: #fff;
-  background: rgba(255, 255, 255, .3);
   display: inline-block;
   font-size: 60px;
   font-weight: 800;
