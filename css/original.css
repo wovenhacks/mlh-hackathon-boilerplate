@@ -49,15 +49,23 @@ section {
  */
 
 .hero {
-  background-color: #FF7FA8;
-  min-height: 110vh;
+  background-color: #44D5FF;
+  background: url("https://raw.githubusercontent.com/wovenhacks/mlh-hackathon-boilerplate/andrew/test/images/landscape%201-01.png");
+  background-size: cover;
+  min-height: 140vh;
 }
 
 .hero img {
-  max-width: 400px;
+  content: url("https://raw.githubusercontent.com/wovenhacks/mlh-hackathon-boilerplate/andrew/test/images/wovenhack%20logo%20single-01.png");
+   max-width: 250px;
+  min-width: 150px;
+  min-height: 150px; 
+  display: block; 
+  margin: auto; 
 }
 
 .hero hr {
+  display: none;
   border-top: 15px solid #0F2C34;
   margin: 0;
   position: relative;
@@ -65,10 +73,12 @@ section {
 }
 
 .hero .wrapper {
-  padding-top: 30vh;
+  padding-top: 20vh;
+  color: white;
 }
 
 .hero .wrapper h1 {
+  color: white;
   background: #fff;
   background: rgba(255, 255, 255, .3);
   display: inline-block;
