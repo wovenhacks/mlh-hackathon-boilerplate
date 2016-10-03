@@ -51,7 +51,7 @@ section {
 .hero {
   background-color: #44D5FF;
   background: url("https://raw.githubusercontent.com/wovenhacks/mlh-hackathon-boilerplate/andrew/test/images/landscape%201-01.png");
-  min-height: 1150vh;
+  min-height: 140vh;
 }
 
 .hero img {
